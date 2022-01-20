@@ -1,2 +1,0 @@
-# First-Repository
-Class assignment
